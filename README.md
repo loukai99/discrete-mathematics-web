@@ -1,6 +1,14 @@
 # discrete-mathematics-web
 
 > Discrete Mathematics course online platform
+>
+> 离散数学课程线上平台
+
+## Introduction
+- 纯前端实现，无需后端，极简开发
+- 视频播放直接嵌入bilibili，腾讯，优酷等来源的视频
+- 讨论区基于Valine实现，无需自己开发后端
+- *代码量极低，特别适合应付导师给的杂活*
 
 ## Build Setup
 
